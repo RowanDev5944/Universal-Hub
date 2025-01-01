@@ -7,6 +7,19 @@
 		{
 			"Name": "Sketchfab",
 			"Enabled": false
+		},
+		{
+			"Name": "MegascansPlugin",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "SQLiteSupport",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
